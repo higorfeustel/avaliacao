@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+header{
+    text-align: center;
+    background-color:rgb(0, 0, 0);
+    padding: 10px 0;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#a {
+    margin-left: auto;
+    margin-right: 1750px;
+    margin-top: 20px;
+    padding: 12px;
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+}
+#b {
+    margin-left: 200px;
+    margin-right: 1550px;
+    margin-top: 20px;
+    padding: 12px;
+    text-align: center;
+    background-color: rgb(255, 0, 255);
+    border-radius: 10px;
+}
+#c {
+    margin-left: 400px;
+    margin-right: 1350px;
+    margin-top: 20px;
+    padding: 12px;
+    text-align: center;
+    background-color: rgb(255, 0, 85);
+    border-radius: 10px;
+}
+#d {
+    margin-left: 600px;
+    margin-right: 1150px;
+    margin-top: 20px;
+    padding: 12px;
+    text-align: center;
+    background-color: rgb(255, 102, 0);
+    border-radius: 10px;
+}
+#e {
+    margin-left: 800px;
+    margin-right: 950px;
+    margin-top: 20px;
+    padding: 12px;
+    text-align: center;
+    background-color: rgb(255, 217, 0);
+    border-radius: 10px;
+}
+#f {
+    margin-left: 1000px;
+    margin-right: 750px;
+    margin-top: 20px;
+    padding: 12px;
+    text-align: center;
+    background-color: rgb(0, 255, 64);
+    border-radius: 10px;
+}
+#g {
+    margin-left: 1200px;
+    margin-right: 550px;
+    margin-top: 20px;
+    padding: 12px;
+    text-align: center;
+    background-color: rgb(0, 110, 255);
+    border-radius: 10px;
+}
+
+img {
+    height: 200px; width: auto;   
+}
+
+section div img{
+    padding-left: 130px;
+}
